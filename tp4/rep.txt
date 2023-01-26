@@ -1,0 +1,11 @@
+Q1
+le minimum local ne satisfait pas la contrainte. A l'optimum la contrainte sera active. 
+c(a,b) = a**2 + b**2 - 0.5 = 0 
+
+Q2
+les points (a,b) satisfaisant la contrainte et où le gradient de la contrainte et de l'objectif sont parallèles sont : a = 0,25 et b = 0,7.
+
+Q4
+Les variables du lagrangien sont a, b et lambda
+
+Q5
